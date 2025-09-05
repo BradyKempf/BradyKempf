@@ -1,8 +1,8 @@
 ## Hi there 👋 Im Brady. 
 #### My pronouns are He/Him. 😁
 #### Im currently learning more about github as well as coding. ☝🤓
-#### Im a MSU Denver Student with a major in cybersecurity, however I might be looking to switch into computer science. 👨‍💻
-#### Im looking for help on how to get more into cyber and computer science. 👾
+#### Im a MSU Denver Student with a major in comp sci. 👨‍💻
+#### Im looking for help on how to get more into video game development and computer science. 👾
 #### You can reach me at bradykempf5@gmail.com. 👍
 
 <!--
